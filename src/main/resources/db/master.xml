@@ -9,5 +9,6 @@
       http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.1.xsd">
 
     <!--<include file=""/>-->
-
+    <include file="db/changelog/2023/11/29-01-changelog.xml"/>
+    <include file="db/changelog/2023/11/29-02-changelog.xml"/>
 </databaseChangeLog>
